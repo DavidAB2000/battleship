@@ -21,5 +21,7 @@ to quit out of code if running slow or errors press cltr + c on windows
 refrences :
 
 https://github.com/victorvald/battleship/blob/master/battleship.py
+
 https://youtube.com/watch?v=xz9GrOwQ_5E
-https://github.com/lpelczar/Battleships-Game/tree/master
+
+ https://github.com/lpelczar/Battleships-Game/tree/master
