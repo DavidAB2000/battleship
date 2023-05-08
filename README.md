@@ -2,6 +2,10 @@
 project: 
 cpu vs player battleship game 
 
+motivation :
+
+this code was made for unix 1320 class. This was a group project two people. This project was difficult as someone still struggles with 
+basics this project was a lot of work. The battleship program was made to be a fun enjoyable game of the classic batttleship game we all probaly have played. 
 
 outline: 
 
